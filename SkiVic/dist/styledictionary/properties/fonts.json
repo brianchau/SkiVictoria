@@ -1,0 +1,41 @@
+{
+  "font": {
+    "Myriad Pro — 36pt": {
+      "family": {
+        "value": "Myriad Pro"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Arial — 24pt": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "Impact — 51pt": {
+      "family": {
+        "value": "Impact"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Myriad Pro — 36pt": {
+        "value": "36"
+      },
+      "Arial — 24pt": {
+        "value": "24"
+      },
+      "Impact — 51pt": {
+        "value": "51"
+      }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-11-15T00:18:52.922Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "2eb46db4-0009-4e74-821f-4a5708f59748",
+      "name": "Myriad Pro — 36pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "338efd71-52ec-415a-9c5d-11857abeeee2",
+        "last_sync": "2020-11-15T00:18:52.921Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "b7e782e9-c72d-4721-be56-85dbfcbf81e1",
+          "type": "custom",
+          "value": "Myriad Pro",
+          "key": "family"
+        },
+        {
+          "id": "b7e782e9-c72d-4721-be56-85dbfcbf81e1",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "b7e782e9-c72d-4721-be56-85dbfcbf81e1",
+          "type": "size",
+          "value": "36",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "f05d6594-b105-437a-8976-d07cc052391c",
+      "name": "Arial — 24pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "b57df02e-a3f2-40fe-ba81-894d77e56008",
+        "last_sync": "2020-11-15T00:18:52.921Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "a9e5a267-786d-44de-badd-3f51a2fc30ac",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "a9e5a267-786d-44de-badd-3f51a2fc30ac",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "a9e5a267-786d-44de-badd-3f51a2fc30ac",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "26ea9812-1cb8-41a5-b98f-498cd6032e32",
+      "name": "Arial — 24pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "f3d4e4d2-f17e-4e22-b48c-158a1f1a1ea7",
+        "last_sync": "2020-11-15T00:18:52.921Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d4f3b514-f595-4b4f-8ffe-56caa1381994",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "d4f3b514-f595-4b4f-8ffe-56caa1381994",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "d4f3b514-f595-4b4f-8ffe-56caa1381994",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "c98e4096-419c-4f3e-899d-88fbb309b404",
+      "name": "Impact — 51pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "4beaf82a-dfa3-45d5-a48a-78ad2d28576e",
+        "last_sync": "2020-11-15T00:18:52.921Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "0aed211f-905e-4ef9-92c8-2cfa8874654f",
+          "type": "custom",
+          "value": "Impact",
+          "key": "family"
+        },
+        {
+          "id": "0aed211f-905e-4ef9-92c8-2cfa8874654f",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "0aed211f-905e-4ef9-92c8-2cfa8874654f",
+          "type": "size",
+          "value": "51",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
