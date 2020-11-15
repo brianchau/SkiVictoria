@@ -1,13 +1,13 @@
 {
   "color": {
     "bodyBG-color": {
-      "value": "#EDFCFDfa"
+      "value": "#FFFFFFfa"
     },
     "menu-color": {
       "value": "#C4C1C1ff"
     },
     "mainText-color": {
-      "value": "#D8DEECff"
+      "value": "#E6E8EFff"
     },
     "bodyText-color": {
       "value": "#000000ff"
