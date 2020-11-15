@@ -13,7 +13,7 @@
         "trigger": "banner",
         "languages": {
           "html": "<div class=\"banner-home\">\n  <h1>Ski Victoria</h1>\n</div>",
-          "css": ".banner-home {\n  background-image: url(\"../images/1.jpeg\");\n  height: 300px;\n  background-size: cover;\n  background-position: center;\n  margin-bottom: 20px;\n}\n\n.banner-home h1 {\n  font-family:Impact, Haettenschweiler, \"Franklin Gothic Bold\", \"Arial Black\", \"sans-serif\"; \n  text-align: right;  \n  color: #D8DEEC;\n  font-size: 2.5em;\n  margin-top: 0px;\n  padding: 20px;\n}\n\n.banner-home h1 {\n  padding: 40px 20px;\n}"
+          "css": ".banner-home {\n  background-image: url(\"../images/1.jpeg\");\n  height: 300px;\n  background-size: cover;\n  background-position: center;\n  margin-bottom: 20px;\n}\n\n.banner-home h1 {\n  font-family:Impact, Haettenschweiler, \"Franklin Gothic Bold\", \"Arial Black\", \"sans-serif\"; \n  text-align: right;  \n  color: var(--main-text-color);\n  font-size: 2.5em;\n  margin-top: 0px;\n  padding: 20px;\n}\n\n.banner-home h1 {\n  padding: 40px 20px;\n}"
         }
       },
       "name": "banner",
@@ -23,7 +23,7 @@
         "last_sync": "2020-11-15T00:18:52.920Z",
         "sync": true
       },
-      "last_updated": "2020-11-15T02:10:14.588Z",
+      "last_updated": "2020-11-15T05:40:54.758Z",
       "last_updated_by": ""
     },
     {
