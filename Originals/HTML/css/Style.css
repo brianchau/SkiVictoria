@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+  margin: 0px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.banner-home {
+  background-image: url("../images/1.jpeg");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 20px;
+}
+
+.banner-home h1 {
+  font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; 
+  text-align: right;  
+  color: #D8DEEC;
+  font-size: 2.5em;
+  margin-top: 0px;
+  padding: 20px;
+}
+
+#menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: rgba(225,225,225,0.75);
+  overflow: hidden;
+  transition: 0.5s;
+  width: 0px;
+}
+
+#open {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+}
+
+#open a {
+  font-size: 2em;
+  text-decoration: none;
+  color: #fff;
+}
+
+nav ul{
+  list-style: none; 
+  padding-left: 0px;
+  margin: 0px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #5E5C5B;
+  background-color: rgba(225,225,225,0.75);
+  display: block;  
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
+
+nav a:hover {
+  background-color: #928E8E;
+}
+
+.feature-images {
+  padding: 0px 10px;
+}
+
+.feature-images img{
+  width: 100%;
+}
+
+
+.art-one-home-img {
+  background-image: url("../images/5.jpeg");
+  height: 480px;
+  background-size: cover;
+  background-position: center;
+}
+
+.art-one-home {
+  background-color: #77728E;
+  color: white;
+}
+
+.art-one-home-txt {
+  padding: 6px;
+}
+
+.art-two-home, .art-three-home {
+  padding: 10px;
+}
+.art-two-home-img{
+  width: 100%;
+  height: 300px;
+  background-image: url("../images/6.jpeg");
+  margin: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.art-three-home-img{
+  width: 100%;
+  height: 300px;
+  background-image: url("../images/7.jpeg");
+  margin: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+footer {
+  background-color: #77728E;
+  color: white;
+  padding: 10px;
+  font-size: smaller;
+}
+
+@media screen and (min-width:415px) {
+  .banner-home h1 {
+    padding: 40px 20px;
+  }
+  #open, #close {
+    display: none;
+  }
+  
+  #menu{
+    height: auto;
+    width: 100%;
+  }
+  nav ul {
+    display: flex;
+  }
+  nav ul li {
+    flex: 1;
+  }
+  .feature-images {
+    display: flex;
+  }
+  .feature-images div{
+    padding: 0 10px;
+    flex: 1;
+  }
+  .art-one-home {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  .art-one-home-img {
+    flex: 1.1;
+  }
+  .art-one-home-txt {
+    flex: 1;
+    padding-left: 25px;
+  .2}
+  .art-twothree-wrapper {
+    display: flex;
+  }
+  .art-twothree-wrapper article {
+    flex:1;
+  }
+}
