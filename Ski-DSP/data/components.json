@@ -1,0 +1,76 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-11-22T04:10:41.076Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "f5e636a5-21b1-4268-a5e6-9507f74bed43",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "banner",
+        "languages": {
+          "html": "<div class=\"banner-home\">\n  <h1>Ski Victoria</h1>\n</div>",
+          "css": ".banner-home {\n  background-image: url(\"../images/1.jpeg\");\n  height: 300px;\n  background-size: cover;\n  background-position: center;\n  margin-bottom: 20px;\n}\n\n.banner-home h1 {\n  font-family: var(--banner-font-family); \n  text-align: right;  \n  color: var(--main-text-color);\n  font-size: 2.5em;\n  margin-top: 0px;\n  padding: 20px;\n}\n\n.banner-home h1 {\n  padding: 40px 20px;\n}"
+        }
+      },
+      "name": "banner",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "46f91ef6-ba3e-4d6c-889e-f58d3b99f37c",
+        "last_sync": "2020-11-22T04:10:41.074Z",
+        "sync": true
+      },
+      "last_updated": "2020-11-22T04:51:06.028Z",
+      "last_updated_by": ""
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "e708f1d1-e359-4b31-b9c2-3f43ddb40385",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "gallery",
+        "languages": {
+          "html": "<section class=\"feature-images\">\n  <div>\n    <img src=\"images/2.jpeg\" alt=\"\">\n    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, consequuntur, obcaecati. Quaerat necessitatibus, hic fugit quam exercitationem quas dignissimos iusto praesentium aliquam. </p>\n  </div>\n  <div>\n    <img src=\"images/3.jpeg\" alt=\"\">\n    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, consequuntur, obcaecati. Quaerat necessitatibus, hic fugit quam exercitationem quas dignissimos iusto praesentium aliquam. Quos, aliquam, quibusdam. Aliquid, doloremque praesentium voluptatem nostrum.</p>\n  </div>\n  <div>\n    <img src=\"images/4.jpeg\" alt=\"\">\n    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, consequuntur, obcaecati. Quaerat necessitatibus, hic fugit quam exercitationem quas dignissimos iusto praesentium aliquam. Quos, aliquam, quibusdam. </p>\n  </div>\n</section>\n",
+          "css": ".feature-images {\n  padding: 0px 10px;\n}\n\n.feature-images img{\n  width: 100%;\n}\n\n.feature-images {\n  display: flex;\n}\n\n.feature-images div{\n  padding: 0 10px;\n  flex: 1;\n}\n"
+        }
+      },
+      "name": "gallery",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "85dedd65-dcba-4da9-8484-aa8ea0d68877",
+        "last_sync": "2020-11-22T04:10:41.075Z",
+        "sync": true
+      },
+      "last_updated": "2020-11-22T04:32:35.177Z",
+      "last_updated_by": ""
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "6dd37341-e1ff-4110-b3a2-81e7eac47f6e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "navBar",
+        "languages": {
+          "html": "<nav id=\"menu\">\n  <ul>\n    <li><a href=\"index\">Home</a></li>\n    <li><a href=\"about\">About</a></li>\n    <li><a href=\"gallery\">Gallery</a></li>\n    <li><a href=\"blog\">Blog</a></li>\n    <li><a href=\"contact\">Contact</a></li>\n  </ul>\n</nav>",
+          "css": "#menu {\n  position: fixed;\n  top: 0;\n  left: 0;\n  height: auto;\n  width: 100%;\n  font-family: var(--menu-font-family);\n}\n\nnav ul {\n  list-style: none; \n  padding-left: 0px;\n  margin: 0px;\n}\n\nnav a {\n  text-decoration: none;\n  color: #5E5C5B;\n  background-color: rgba(225,225,225,0.75);\n  display: block;  \n  text-align: center;\n  padding: 10px 0 10px 0;\n}\n\nnav a:hover {\n  background-color: #928E8E;\n}\n\nnav ul {\n  display: flex;\n}\n\nnav ul li {\n  flex: 1;\n}"
+        }
+      },
+      "name": "navBar",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "6393fa5b-6c99-4e4a-9aed-37bcd531371c",
+        "last_sync": "2020-11-22T04:10:41.075Z",
+        "sync": true
+      },
+      "last_updated": "2020-11-22T04:48:54.936Z",
+      "last_updated_by": ""
+    }
+  ]
+}

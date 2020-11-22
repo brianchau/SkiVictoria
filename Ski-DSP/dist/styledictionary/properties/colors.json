@@ -1,0 +1,19 @@
+{
+  "color": {
+    "bodyBG-color": {
+      "value": "#FFFFFFfa"
+    },
+    "mainText-color": {
+      "value": "#E5EBFAff"
+    },
+    "menu-color": {
+      "value": "#C4C1C1ff"
+    },
+    "bodyText-color": {
+      "value": "#000000ff"
+    },
+    "sidebar-color": {
+      "value": "#937598ff"
+    }
+  }
+}
