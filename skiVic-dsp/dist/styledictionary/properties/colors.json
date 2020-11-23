@@ -1,0 +1,19 @@
+{
+  "color": {
+    "bannerText-color": {
+      "value": "#EBF4FFff"
+    },
+    "bodyBG-color": {
+      "value": "#FFFFFFfa"
+    },
+    "menu-color": {
+      "value": "#C4C1C1ff"
+    },
+    "bodyText-color": {
+      "value": "#000000ff"
+    },
+    "sidebar-color": {
+      "value": "#937598ff"
+    }
+  }
+}

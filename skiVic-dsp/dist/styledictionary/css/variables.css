@@ -1,0 +1,24 @@
+/**
+ * Do not edit directly
+ * Generated on Mon, 23 Nov 2020 06:44:42 GMT
+ */
+
+:root {
+  --banner-text-color: #ebf4ff;
+  --body-bg-color: rgba(255, 255, 255, 0.98);
+  --menu-color: #c4c1c1;
+  --body-text-color: #000000;
+  --sidebar-color: #937598;
+  --gallery-font-family: Arial;
+  --gallery-font-weight: Regular;
+  --main-story-font-family: Arial;
+  --main-story-font-weight: Regular;
+  --banner-font-family: Impact;
+  --banner-font-weight: Regular;
+  --menu-font-family: Myriad Pro;
+  --menu-font-weight: Regular;
+  --gallery-font-size: 24rem;
+  --main-story-font-size: 24rem;
+  --banner-font-size: 51rem;
+  --menu-font-size: 36rem;
+}

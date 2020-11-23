@@ -1,0 +1,52 @@
+{
+  "font": {
+    "gallery-font": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "mainStory-font": {
+      "family": {
+        "value": "Arial"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "banner-font": {
+      "family": {
+        "value": "Impact"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    },
+    "menu-font": {
+      "family": {
+        "value": "Myriad Pro"
+      },
+      "weight": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "gallery-font": {
+        "value": "24"
+      },
+      "mainStory-font": {
+        "value": "24"
+      },
+      "banner-font": {
+        "value": "51"
+      },
+      "menu-font": {
+        "value": "36"
+      }
+    }
+  }
+}

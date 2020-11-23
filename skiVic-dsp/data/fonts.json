@@ -1,0 +1,139 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-11-23T06:16:36.067Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "7a85df64-a502-4b24-92ee-65094436c0b4",
+      "name": "gallery-font",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "f3d4e4d2-f17e-4e22-b48c-158a1f1a1ea7",
+        "last_sync": "2020-11-23T06:16:36.065Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "22df99be-4a44-4a37-a875-5c2a78b5dd29",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "22df99be-4a44-4a37-a875-5c2a78b5dd29",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "22df99be-4a44-4a37-a875-5c2a78b5dd29",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "20891349-5c5a-46ee-9d7c-710bce7f1d5e",
+      "name": "mainStory-font",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "b57df02e-a3f2-40fe-ba81-894d77e56008",
+        "last_sync": "2020-11-23T06:16:36.065Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "ee4d927d-48ed-43d7-ab83-f0e107acb6a7",
+          "type": "custom",
+          "value": "Arial",
+          "key": "family"
+        },
+        {
+          "id": "ee4d927d-48ed-43d7-ab83-f0e107acb6a7",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "ee4d927d-48ed-43d7-ab83-f0e107acb6a7",
+          "type": "size",
+          "value": "24",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "a526e65d-5524-4216-a38a-54f427d773c9",
+      "name": "banner-font",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "4beaf82a-dfa3-45d5-a48a-78ad2d28576e",
+        "last_sync": "2020-11-23T06:16:36.065Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "c3a48268-85bb-4b35-a970-60d3d16e52c4",
+          "type": "custom",
+          "value": "Impact",
+          "key": "family"
+        },
+        {
+          "id": "c3a48268-85bb-4b35-a970-60d3d16e52c4",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "c3a48268-85bb-4b35-a970-60d3d16e52c4",
+          "type": "size",
+          "value": "51",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "49eff229-71a6-4a16-a46c-85642114b3e3",
+      "name": "menu-font",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/2540fbad-cca5-4d86-58d3-5e1e16221ea6",
+        "id": "338efd71-52ec-415a-9c5d-11857abeeee2",
+        "last_sync": "2020-11-23T06:16:36.065Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "77354641-8407-49ac-8ed5-436378aaa43a",
+          "type": "custom",
+          "value": "Myriad Pro",
+          "key": "family"
+        },
+        {
+          "id": "77354641-8407-49ac-8ed5-436378aaa43a",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "77354641-8407-49ac-8ed5-436378aaa43a",
+          "type": "size",
+          "value": "36",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
